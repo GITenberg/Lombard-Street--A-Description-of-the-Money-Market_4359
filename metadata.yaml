@@ -1,0 +1,40 @@
+_repo: Lombard-Street--A-Description-of-the-Money-Market_4359
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bagehot, Walter
+    birthdate: 1826
+    deathdate: 1877
+    gutenberg_agent_id: '1461'
+    url: http://www.gutenberg.org/2009/agents/1461
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Bagehot
+description: '"The English precursor to Wall Street, London''s Lombard Street is the
+  original district of finance and the birthplace of the money market. Fast-paced
+  and highly-charged, it is a hotbed of financial activity whose impact is felt not
+  just nationally, but globally." "The chef d''oeuvre of Walter Bagehot, Lombard Street
+  began as a series of articles the esteemed essayist and financial advisor had written
+  for The Economist during the 1850s. First published in book form in 1873, it is
+  a vivid description of the money market that seamlessly brings together theoretical
+  analyses, historical anecdotes, and incisive commentary on sociology, politics,
+  and the Street''s various personalities." "Perhaps most important, Lombard Street
+  features Bagehot''s prescription for crisis management, which after nearly 150 years,
+  remains the formula of choice for containing--and curtailing--financial crises"--Description
+  borrowed from the dustjaket of a 1999 publication of this work by John Wiley & Sons,
+  Inc.'
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4359'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HG'
+- !lcsh 'Finance -- England -- London'
+- !lcsh 'Banks and banking -- England -- London'
+- !lcsh 'Banks and banking -- Great Britain'
+- !lcsh 'Finance -- Great Britain'
+- GITenberg
+title: 'Lombard Street: A Description of the Money Market'
+url: http://www.gutenberg.org/ebooks/4359
