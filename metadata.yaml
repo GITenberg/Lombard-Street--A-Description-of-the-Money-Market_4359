@@ -1,5 +1,8 @@
 _repo: Lombard-Street--A-Description-of-the-Money-Market_4359
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bagehot, Walter
@@ -21,6 +24,8 @@ description: '"The English precursor to Wall Street, London''s Lombard Street is
   remains the formula of choice for containing--and curtailing--financial crises"--Description
   borrowed from the dustjaket of a 1999 publication of this work by John Wiley & Sons,
   Inc.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4359#Lombard-Street--A-Description-of-the-Money-Market
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
