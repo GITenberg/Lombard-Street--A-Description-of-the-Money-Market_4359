@@ -4400,7 +4400,7 @@ sensible and fairly efficient twenty years later.
 The age is a primary matter. The offices of Governor and
 Deputy-Governor are given in rotation. The Deputy-Governor always
 succeeds the Governor, and usually the oldest director who has not
-been m office becomes Deputy-Governor. Sometimes, from personal
+been in office becomes Deputy-Governor. Sometimes, from personal
 reasons, such as ill-health or special temporary occupation, the
 time at which a director becomes Deputy-Governor may be a little
 deferred, and, in some few cases, merchants in the greatest business
@@ -4741,7 +4741,7 @@ defend his actions in Parliament, and the discriminating tact of a
 critical assembly--abounding in experience, and guided by
 tradition--will soon discover what he is. But the Governor of the Bank
 would only perform quiet functions, which look like routine, though
-they are not, m which there is no immediate risk of success or
+they are not, in which there is no immediate risk of success or
 failure; which years hence may indeed issue in a crop of bad debts,
 but which any grave persons may make at the time to look fair and
 plausible. A large Bank is exactly the place where a vain and
@@ -4976,7 +4976,7 @@ I believe that the appointment of the new permanent and skilled
 authority at the Bank is the greatest reform which can be made
 there, and that which is most wanted. I believe that such a person
 would give to the decision of the Bank that foresight, that
-quickness, and that consistency m which those decisions are
+quickness, and that consistency in which those decisions are
 undeniably now deficient. As far as I can judge, this change in the
 constitution of the Bank is by far the most necessary, and is
 perhaps more important even than all other changes. But,
@@ -6119,7 +6119,7 @@ would grow by what it fed upon (as is its nature), and might
 probably destroy also the bankers, the holders of the reserve. The
 public terror at such times is indiscriminate. When one house of
 good credit has perished, other houses of equal credit though of
-different nature are m danger of perishing. The many holders of the
+different nature are in danger of perishing. The many holders of the
 banking reserve would under the natural system of banking be obliged
 to advance out of that reserve to uphold bill-brokers and similar
 dealers. It would be essential to their own preservation not to let
@@ -6364,7 +6364,7 @@ operation is, to those who can watch it, singularly invariable time
 after time.
 
 But it is important to observe, that the published accounts of the
-Bank give no such information to the public as win enable them to
+Bank give no such information to the public as will enable them to
 make their own calculations. The account of which we have been
 speaking is the yearly account of the English Government--what we may
 call the Budget account, that of revenue and expenditure. And the
@@ -6751,7 +6751,7 @@ Too much reserve only means a small loss of profit, but too small a
 reserve may mean 'ruin.' Credit may be at once shaken, and if some
 terrifying accident happen to supervene, there may be a run on the
 Banking department that may be too much for it, as in 1857 and 1866,
-and may make it unable to pay its way without assistance--as it was m
+and may make it unable to pay its way without assistance--as it was in
 those years.
 
 And the observance of this maxim is the more necessary because the
@@ -7700,7 +7700,7 @@ of great vigilance and great anxiety on the part of each and all of
 your directors; and I will add that I believe you would only
 diminish their sense of responsibility, and introduce confusion into
 the management of your business, if you were to transfer to auditors
-the making up of your ac counts. If your directors deserve your
+the making up of your accounts. If your directors deserve your
 confidence they are surely capable of performing that duty, and if
 they do not deserve it you ought not to continue them in their
 present office. With regard to the supposed lock-up of our capital,
